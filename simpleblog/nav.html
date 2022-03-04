@@ -1,17 +1,10 @@
-<!--
-
--->
-{% if not nav_item.children %}
-<li {% if nav_item.active %}class="active"{% endif %}>
-    <a href="{{ nav_item.url|url }}">{{ nav_item.title }}</a>
-</li>
-{% else %}
-  <li>
-    {{ nav_item.title }}
-    <ul>
-        {% for nav_item in nav_item.children %}
-            {% include "nav.html" %}
-        {% endfor %}
-    </ul>
-  </li>
+{% if page.next_page or page.previous_page %}
+<p class="entry">
+  {% if page.previous_page %}
+  <span class="light adjacent">Previous:</span><a href="{{ page.previous_page.url|url }}" title="{{ page.previous_page.title }}">{{ page.previous_page.title }}</a><br>
+  {% endif %}
+  {% if page.next_page %}
+  <span class="light adjacent">Next:</span><a href="{{ page.next_page.url|url }}" title="{{ page.next_page.title }}">{{ page.next_page.title }}</a>
+  {% endif %}
+</p>
 {% endif %}
