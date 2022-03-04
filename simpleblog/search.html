@@ -1,10 +1,14 @@
-{% extends "base.html" %}
+<!DOCTYPE html>
 
+{% include "head.html" %}
 {% block extrahead %}
   <script>var base_url = '{{ base_url }}';</script>
 {% endblock %}
 
-{% block content %}
+<body>
+  {% include "sidebar.html" %}
+
+  {% block content %}
 
   <h1 id="search">Search Results</h1>
 
@@ -17,4 +21,13 @@
     Sorry, page not found.
   </div>
 
-{% endblock %}
+  {% endblock %}
+
+  {% include "nav.html" %}
+</body>
+
+</html>
+
+
+
+

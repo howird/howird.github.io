@@ -1,5 +1,2 @@
 # Project Logs
-- hii 
-- hellooooo
-
-[link](220303.md)
+I'll be posting logs for any personal projects I'm working on here.

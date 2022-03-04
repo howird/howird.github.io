@@ -5,5 +5,5 @@
   {% for nav_item in nav %}
     <a href="{{ nav_item.url|url }}" {% if not nav_item.active %}class="light"{% endif %}>{{ nav_item.title }}</a>
   {% endfor %}
-  <a href="#" title="Search" class="light"> Search</a>
+  <!-- <a href="/search" title="Search" class="light"> Search</a> -->
 </div>

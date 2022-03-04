@@ -1,10 +1,3 @@
-<!--
-  This Basic theme serves as an example for how to create other
-  themes by demonstrating the features with minimal HTML and CSS.
-  Comments like this will be through the code to explain briefly
-  what each feature is and point you to the MkDocs documentation
-  to find out more.
--->
 <!DOCTYPE html>
 
 {% include "head.html" %}
@@ -16,12 +9,18 @@
     {{ page.content }}
   {% endblock %}
 
-  {{page.toc}}
+  {% if page.sections %}
+    {% for sec in page.sections %}
+      <h2>{{ sec }}</h2>
+
+      {% for art in page.sections[sec] %}
+        <p><a href="{{ art.url|url }}" title="{{ art.title }}"/>{{ art.title }}</a></p>
+      {% endfor %}
+
+    {% endfor %}
+  {% endif %}
 
   {% include "nav.html" %}
-
-  <hr/>
-
-  Built by Howard Nguyen-Huu using <a href="https://www.mkdocs.org">MkDocs</a>.
 </body>
+
 </html>

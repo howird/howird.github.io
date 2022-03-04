@@ -174,7 +174,7 @@ blockquote {
 	margin: 1.6em 0
 }
 
-.entry a {
+p a {
 	text-decoration: none;
 	text-shadow: .03em 0 #fff, -.03em 0 #fff, 0 .03em #fff, 0 -.03em #fff, .06em 0 #fff, -.06em 0 #fff, .09em 0 #fff, -.09em 0 #fff, 0 .03em #fff, 0 -.03em #fff, 0 .06em #fff, 0 -.06em #fff;
 	background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(#555, #555);
@@ -183,17 +183,17 @@ blockquote {
 	background-position: 0 90%, 100% 100%, 0 100%
 }
 
-.entry a:hover {
+p a:hover {
 	color: #00f;
 	background-image: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), linear-gradient(blue, #00f)
 }
 
-.entry a::selection {
+p a::selection {
 	background: #b3d4fd;
 	text-shadow: .03em 0 #b3d4fd, -.03em 0 #b3d4fd, 0 .03em #b3d4fd, 0 -.03em #b3d4fd, .06em 0 #b3d4fd, -.06em 0 #b3d4fd, .09em 0 #b3d4fd, -.09em 0 #b3d4fd, .12em 0 #b3d4fd, -.12em 0 #b3d4fd
 }
 
-.entry a::-moz-selection {
+p a::-moz-selection {
 	background: #b3d4fd;
 	text-shadow: .03em 0 #b3d4fd, -.03em 0 #b3d4fd, 0 .03em #b3d4fd, 0 -.03em #b3d4fd, .06em 0 #b3d4fd, -.06em 0 #b3d4fd, .09em 0 #b3d4fd, -.09em 0 #b3d4fd, .12em 0 #b3d4fd, -.12em 0 #b3d4fd
 }

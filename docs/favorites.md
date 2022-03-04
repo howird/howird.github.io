@@ -1,4 +1,4 @@
-# favourites
+# Favorites
 ## music
 I have lots of random playlists with artists and songs I don't even like that much. Here are the songs and artists that I will always go back to. 
 ### fav artists
@@ -58,8 +58,6 @@ I have lots of random playlists with artists and songs I don't even like that mu
 - don't dream its over - crowded house
 - father and son - cat stevens
 - another day of sun - la la land
-
-
 
 
 ## movies
