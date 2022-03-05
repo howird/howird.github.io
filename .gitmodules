@@ -1,0 +1,3 @@
+[submodule "mkdocs"]
+	path = mkdocs
+	url = git@github.com:howird/mkdocs.git

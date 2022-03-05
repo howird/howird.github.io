@@ -7,7 +7,7 @@ theme:
 nav:
   - Start Here: 'index.md'
   - Project Logs: 'project-logs/index.md'
-  - My Learning Wiki: 'learning-wiki/index.md'
+  - Learning Wiki: 'learning-wiki/index.md'
   # - Personal Thoughts: 'personal.md'
   - Favorites: 'favorites.md'
   - About Me: 'about.md'
@@ -19,7 +19,7 @@ markdown_extensions:
   - attr_list
 
 extra_javascript:
-  - scripts/mathjax.js
+  - js/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
