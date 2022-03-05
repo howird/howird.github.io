@@ -1,7 +1,7 @@
 ## Winter 2020
 ![room](img/winter2020/000008.JPG){: style="width:100%"}
 ![lounge](img/winter2020/000010.JPG){: style="width:100%"}
-![dog park](img/winter2020/000010.JPG){: style="width:100%"}
+![dog park](img/winter2020/000014.JPG){: style="width:100%"}
 
 
 ## Summer 2020
