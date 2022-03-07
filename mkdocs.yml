@@ -5,12 +5,11 @@ theme:
   custom_dir: 'simpleblog/'
 
 nav:
-  - Start Here: 'index.md'
+  - About Me: 'index.md'
   - Project Logs: 'project-logs/index.md'
   - Learning Wiki: 'learning-wiki/index.md'
   # - Personal Thoughts: 'personal.md'
-  - Favorites: 'favorites.md'
-  - About Me: 'about.md'
+  # - Favorites: 'favorites.md'
   - Photos: 'photos.md'
 
 markdown_extensions:

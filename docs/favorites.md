@@ -1,6 +1,7 @@
 # Favorites
 ## music
-I have lots of random playlists with artists and songs I don't even like that much. Here are the songs and artists that I will always go back to. 
+I have lots of random playlists with artists and songs I don't even like that much. Here are the songs and artists that I will always go back to.
+
 ### fav artists
 - noname
 - mac miller
@@ -60,4 +61,4 @@ I have lots of random playlists with artists and songs I don't even like that mu
 - another day of sun - la la land
 
 
-## movies
+<!-- ## movies -->

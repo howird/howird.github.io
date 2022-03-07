@@ -90,16 +90,6 @@ h1 {
 	letter-spacing: normal
 }
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-	margin-top: 2em;
-	font-size: 11px;
-	font-weight: 600
-}
-
 a {
 	color: inherit;
 	text-decoration: none
@@ -117,21 +107,6 @@ hr {
 	display: block;
 	text-align: right;
 	margin-bottom: 3em
-}
-
-.logo.hasAvatar {
-	word-spacing: 160px
-}
-
-.avatar {
-	margin: -.1em .1em 0 0
-}
-
-.avatar.round {
-	border-radius: 50%;
-	height: 50px;
-	width: 50px;
-	margin: -4px -4px 0
 }
 
 hr.full {

@@ -1,0 +1,19 @@
+{% if page.sections %}
+  {% for section in page.sections %}
+    <h2>{{ section }}</h2>
+
+    {% for article in page.sections[section] %}
+    <p>
+      <span>
+        <a href="{{ article.url|url }}" title="{{ article.title }}">{{ article.title }}</a>
+      </span>
+      <span class="light">
+        {% if article.meta.get('date') %}
+          {{ article.meta.get('date') }}
+        {% endif %}
+      </span>
+    </p>
+    
+    {% endfor %}
+  {% endfor %}
+{% endif %}

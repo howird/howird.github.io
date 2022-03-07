@@ -9,16 +9,7 @@
     {{ page.content }}
   {% endblock %}
 
-  {% if page.sections %}
-    {% for sec in page.sections %}
-      <h2>{{ sec }}</h2>
-
-      {% for art in page.sections[sec] %}
-        <p><a href="{{ art.url|url }}" title="{{ art.title }}"/>{{ art.title }}</a></p>
-      {% endfor %}
-
-    {% endfor %}
-  {% endif %}
+  {% include "sections.html" %}
 
   {% include "nav.html" %}
 </body>
