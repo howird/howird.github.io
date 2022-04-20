@@ -8,6 +8,10 @@ body {
 	padding: 0 74px 0 222px
 }
 
+img {
+	width:100%
+}
+
 .sidebar {
 	width: 190px;
 	position: absolute;
