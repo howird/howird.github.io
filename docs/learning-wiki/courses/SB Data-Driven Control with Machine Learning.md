@@ -1,4 +1,4 @@
-# Data-Driven Control with Machine Learning
+# SB Data-Driven Control with Machine Learning
 
 ![type:video](https://www.youtube.com/embed/oulLR06lj_E)
 
