@@ -1,4 +1,4 @@
-# Cherno C++
+# C++
 
 ![type:video](https://www.youtube.com/embed/18c3MTX0PK0)
 

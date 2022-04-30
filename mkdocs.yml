@@ -1,4 +1,4 @@
-site_name: Howard Nguyen-Huu
+site_name: howird
 
 theme:
   name: null
@@ -8,6 +8,7 @@ nav:
   - About Me: 'index.md'
   - Project Logs: 'project-logs/index.md'
   - Learning Wiki: 'learning-wiki/index.md'
+  - Resources: 'resources/index.md'
   # - Personal Thoughts: 'personal.md'
   # - Favorites: 'favorites.md'
   - Photos: 'photos.md'
