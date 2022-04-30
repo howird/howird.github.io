@@ -1,5 +1,5 @@
 body {
-	font: 11px/1.8 Verdana, 'Bitstream Vera Sans', sans-serif;
+	font: 13px/1.8 'PT Sans', 'Bitstream Vera Sans', sans-serif;
 	color: #111;
 	word-wrap: break-word;
 	position: relative;
@@ -42,21 +42,11 @@ h3,
 h4,
 h5,
 h6 {
-	font-weight: 400;
-	margin-bottom: 1em;
-	font-family: 'Gill Sans MT', 'Gill Sans', 'Gill Sans Std', Verdana, 'Bitstream Vera Sans', sans-serif
-}
-
-.sidebar,
-h1 a,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-size: 12px;
+	font-size: 14px;
+	font-weight: 700;
 	text-transform: uppercase;
-	letter-spacing: 1.7325px
+	letter-spacing: 1.7325px;
+	font-family: 'PT Sans', 'Gill Sans', 'Gill Sans Std', Verdana, 'Bitstream Vera Sans', sans-serif
 }
 
 .sidebar a {
@@ -108,9 +98,11 @@ hr {
 }
 
 .logo {
+	font: 30px/3 'Abril Fatface';
+	text-transform: lowercase;
 	display: block;
 	text-align: right;
-	margin-bottom: 3em
+	margin-bottom: .25em
 }
 
 hr.full {
@@ -316,7 +308,8 @@ section {
 	.sidebar .logo {
 		margin: 0;
 		display: block;
-		text-align: center
+		text-align: center;
+		margin-bottom: -0.5em;
 	}
 	.logo.hasAvatar {
 		word-spacing: 0
