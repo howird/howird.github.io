@@ -9,8 +9,8 @@ theme:
 nav:
   - About Me: 'index.md'
 
-  - 'project-logs/index.md':
-    - name: Project Logs
+  - Project Logs:
+    - path: 'project-logs/index.md'
     - sections:
       - keebwird: 'project-logs/keebwird'
       - watonomous: 'project-logs/watonomous'
@@ -20,9 +20,9 @@ nav:
   - Learning Wiki:
     - path: 'learning-wiki/index.md'
     - sections:
-      - computational neuroscience: 'learning-wiki/computational neuroscience'
-      - deep learning: 'learning-wiki/deep learning'
-      - quick tips: 'learning-wiki/quick tips'
+      - computational neuroscience: 'learning-wiki/computational-neuroscience'
+      - deep learning: 'learning-wiki/deep-learning'
+      - quick tips: 'learning-wiki/quick-tips'
 
   - Resources:
     - path: 'resources/index.md'
@@ -31,8 +31,7 @@ nav:
       - courses: 'resources/courses' 
       - playlists: 'resources/playlists'
   
-  - 'photos.md'
-
+  - Photos: 'photos.md'
 
 markdown_extensions:
 # mathjax, see squidfunk.github.io/mkdocs-material/reference/mathjax/
