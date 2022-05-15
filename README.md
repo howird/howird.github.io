@@ -7,7 +7,7 @@ personal website
 ```
 git submodule init
 cd mkdocs
-python setup.py install
+python setup.py develop
 
 cd ..
 

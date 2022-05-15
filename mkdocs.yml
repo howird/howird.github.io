@@ -27,7 +27,6 @@ nav:
   - Resources:
     - path: 'resources/index.md'
     - sections:
-      - articles: 'resources/articles'
       - courses: 'resources/courses' 
       - playlists: 'resources/playlists'
   
