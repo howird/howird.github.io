@@ -36,7 +36,7 @@ pip install matplotlib tqdm pydot scikit-image graphviz tensorflow_datasets
 ## PyQt5
 - Unfortunately Qt5 is hard to get working with Apple Silicon
 - If you're starting a new PyQt project you're better off using PyQt6 which has support for ARM64 architectures
-- However if you must use PyQt5 there are various methods to do so:
+- However if you must use PyQt5, there are various methods to do so:
 
 ### With built-in Python venv (virtualenv)
 - If you don't like conda or don't need tensorflow use this method
@@ -53,12 +53,10 @@ source env/bin/activate
 pip install --upgrade pip
 pip install PyQt5
 ```
-:smile:
-:fontawesome-regular-face-laugh-wink:
 
 ### With Conda
 
-- If you plan to use tensorflow in the same package
+- If you plan to use tensorflow in the same package on MacOS you're probably using conda as well so:
 ```
 brew install pyqt5
 echo 'export PATH="/opt/homebrew/Cellar/qt@5/bin:$PATH"' >> ~/.zshrc

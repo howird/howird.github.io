@@ -22,13 +22,15 @@ nav:
     - sections:
       - computational neuroscience: 'learning-wiki/computational-neuroscience'
       - deep learning: 'learning-wiki/deep-learning'
-      - quick tips: 'learning-wiki/quick-tips'
+      - quick notes: 'learning-wiki/quick-tips'
+      - open3d: 'learning-wiki/open3d'
 
   - Resources:
     - path: 'resources/index.md'
     - sections:
       - courses: 'resources/courses' 
       - playlists: 'resources/playlists'
+      # - misc: 'resources/misc'
   
   - Photos: 'photos.md'
 
