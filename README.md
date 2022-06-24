@@ -6,6 +6,7 @@ personal website
 ### installation
 ```
 git submodule init
+git submodule update
 cd mkdocs
 python setup.py develop
 
