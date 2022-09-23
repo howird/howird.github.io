@@ -9,21 +9,22 @@ theme:
 nav:
   - About Me: 'index.md'
 
-  - Project Logs:
-    - path: 'project-logs/index.md'
-    - sections:
-      - keebwird: 'project-logs/keebwird'
-      - watonomous: 'project-logs/watonomous'
-      - watolink: 'project-logs/watolink'
-      - misc: 'project-logs/misc'
+  # - Project Logs:
+  #   - path: 'project-logs/index.md'
+  #   - sections:
+  #     - keebwird: 'project-logs/keebwird'
+  #     - watonomous: 'project-logs/watonomous'
+  #     - watolink: 'project-logs/watolink'
+  #     - misc: 'project-logs/misc'
 
   - Learning Wiki:
     - path: 'learning-wiki/index.md'
     - sections:
       - computational neuroscience: 'learning-wiki/computational-neuroscience'
       - deep learning: 'learning-wiki/deep-learning'
-      - quick notes: 'learning-wiki/quick-tips'
-      - open3d: 'learning-wiki/open3d'
+      - machine learning: 'learning-wiki/machine-learning'
+      - misc: 'learning-wiki/quick-tips'
+      # - open3d: 'learning-wiki/open3d'
 
   - Resources:
     - path: 'resources/index.md'
