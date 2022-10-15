@@ -2,6 +2,8 @@
 My name is __Howard Nguyen-Huu__ and I'm a third year __Biomedical Engineering Student__ at the University of Waterloo.
 My interests include Machine Learning :chart_with_downwards_trend:, Robotics :robot:, Neuroscience :brain:, and Computer Science :computer:.
 
+This site was built with my own custom fork and template of [MkDocs](https://github.com/mkdocs/mkdocs), a python SSG for ```.markdown``` documentation
+
 # Curriculum Vitae
 ### Professional Experience
 | May 2022 - Present  | __Robotics Software Research Assistant__ Promation Engineering            |

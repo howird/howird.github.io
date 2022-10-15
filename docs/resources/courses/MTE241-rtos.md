@@ -1,6 +1,8 @@
-# MTE 241 Computer Structures & Real-Time Systems
+# Waterloo MTE241: Computer Structures & Real-Time Systems
 
-![type:video](https://www.youtube.com/embed/vecEU30I6no)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLRXcHfGhRmpE3YCv_Caib6mOswWSLoL_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![type:video](https://www.youtube.com/embed/vecEU30I6no)
 
 ![type:video](https://www.youtube.com/embed/EEBG2SqYk8k)
 
@@ -98,4 +100,4 @@
 
 ![type:video](https://www.youtube.com/embed/X4Yhi9TeA4w)
 
-![type:video](https://www.youtube.com/embed/NY41z0_Wx4Q)
+![type:video](https://www.youtube.com/embed/NY41z0_Wx4Q) -->
