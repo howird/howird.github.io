@@ -14,7 +14,7 @@ This site was built with my own custom fork and template of [MkDocs](https://git
 | Sep 2021 - Dec 2021 | __Machine Learning Intern__              Geminare                         |
 |                     | Anomaly detection for Linux machines using NLP and clustering.            |
 | Jan 2021 - Dec 2021 | __Software Development Intern__          Blackberry                       |
-|                     | DevOps and Data engineering for cybersecurity insights with Spark.        |
+|                     | DevOps and Data engineering for cybersecurity insights.                   |
 | May 2020 - Aug 2020 | __Software Engineering Intern__          PointClickCare                   |
 |                     | Test driven development of React frontend and Spring backend.             |
 
