@@ -1,6 +1,8 @@
-# ECE 252 Systems Programming and Concurrency
+# Waterloo ECE252: Systems Programming and Concurrency
 
-![type:video](https://www.youtube.com/embed/nDkVRbrr780)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLFCH6yhq9yAHFaI00FrrgG0dPg8a5SjTJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![type:video](https://www.youtube.com/embed/nDkVRbrr780)
 
 ![type:video](https://www.youtube.com/embed/cIS-GelfpNM)
 
@@ -64,4 +66,4 @@
 
 ![type:video](https://www.youtube.com/embed/OGJRaUu8_Yw)
 
-![type:video](https://www.youtube.com/embed/7Kz37uWr9rY)
+![type:video](https://www.youtube.com/embed/7Kz37uWr9rY) -->

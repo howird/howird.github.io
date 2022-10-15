@@ -1,6 +1,8 @@
-# CS223A Intro to Robotics
+# Stanford CS223A: Intro to Robotics
 
-![type:video](https://www.youtube.com/embed/0yD3uBshJB0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL65CC0384A1798ADF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![type:video](https://www.youtube.com/embed/0yD3uBshJB0)
 
 ![type:video](https://www.youtube.com/embed/QKyDrUonp98)
 
@@ -30,4 +32,4 @@
 
 ![type:video](https://www.youtube.com/embed/A6QEQFTBKnA)
 
-![type:video](https://www.youtube.com/embed/DdqNdpcFcF8)
+![type:video](https://www.youtube.com/embed/DdqNdpcFcF8) -->

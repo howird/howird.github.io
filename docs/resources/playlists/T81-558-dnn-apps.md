@@ -1,6 +1,11 @@
 # T81-558 Applications of DNNs
+### TensorFlow
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![type:video](https://www.youtube.com/embed/LCXEuJSwd1E)
+### PyTorch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLjy4p-07OYzuy_lHcRW8lPTLPTTOmUpmi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![type:video](https://www.youtube.com/embed/LCXEuJSwd1E)
 
 ![type:video](https://www.youtube.com/embed/IzZSwS45vt4)
 
@@ -98,4 +103,4 @@
 
 ![type:video](https://www.youtube.com/embed/PyRsjwLHgAU)
 
-![type:video](https://www.youtube.com/embed/uUZg33DfCls)
+![type:video](https://www.youtube.com/embed/uUZg33DfCls) -->

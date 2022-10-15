@@ -40,7 +40,7 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
-# codeb locks, squidfunk.github.io/mkdocs-material/reference/code-blocks/
+# code blocks, squidfunk.github.io/mkdocs-material/reference/code-blocks/
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite

@@ -1,6 +1,8 @@
-# MIT 6.800 Robot Manipulation
+# MIT 6.800: Robot Manipulation
 
-![type:video](https://www.youtube.com/embed/pitFVp5BbCc)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLkx8KyIQkMfVRPReg9FHtBk_RGEwnVxU-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![type:video](https://www.youtube.com/embed/pitFVp5BbCc)
 
 ![type:video](https://www.youtube.com/embed/IYvwrNfufLE)
 
@@ -44,4 +46,4 @@
 
 ![type:video](https://www.youtube.com/embed/MSC3KPGV3YM)
 
-![type:video](https://www.youtube.com/embed/vzNUCs3RGNY)
+![type:video](https://www.youtube.com/embed/vzNUCs3RGNY) -->
