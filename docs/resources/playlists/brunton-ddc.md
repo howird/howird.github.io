@@ -1,6 +1,6 @@
 # Data-Driven Control with Machine Learning
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="310px" src="https://www.youtube.com/embed/videoseries?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- 
 ![type:video](https://www.youtube.com/embed/oulLR06lj_E)
 
