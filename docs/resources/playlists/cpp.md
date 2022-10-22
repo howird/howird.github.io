@@ -1,6 +1,6 @@
 # Cherno C++ Playlist
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="310px" src="https://www.youtube.com/embed/videoseries?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <!-- 
 ![type:video](https://www.youtube.com/embed/18c3MTX0PK0)

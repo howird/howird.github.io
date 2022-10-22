@@ -20,10 +20,10 @@ This site was built with my own custom fork and template of [MkDocs](https://git
 
 ### Research Experience
 | May 2022 - Present  | __Robotics Software Research Assistant__ [U of Waterloo MSAM](https://msam.uwaterloo.ca/)     |
-|-                    |-                                                             |
-|| Joint with Promation Engineering. [See above](#professional-experience).          |
+|-                    |-                                                                                              |
+|                     | Joint with Promation Engineering. [See above](#professional-experience).                      |
 | Apr 2021 - Dec 2021 | __Machine Learning Research Assistant__  [U of Waterloo Arami Lab](https://www.aramilab.com/) |
-|| Deep learning with EMG signals for robotic controls                               |
+|                     | Deep learning with EMG signals for robotic controls                                           |
 
 
 ### Publications
@@ -33,6 +33,7 @@ Kaji, F., __Nguyen-Huu, H.__, Budhwani, A., Narayanan, J. A., Zimny, M., & Toyse
 ### Education
 | Sep 2019 - Present  | __B.A.Sc in Biomedical Engineering__ University of Waterloo|
 |          -          |                                     -                      |
+|                     | Department of __Systems Design__ Engineering               |
 |                     | Specialization in __Neural Engineering__                   |
 |                     | Option in __Artificial Intelligence__                      |
 |                     | __91%__ cumulative GPA                                     |
