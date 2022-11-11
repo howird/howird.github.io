@@ -1,6 +1,6 @@
 # About Me
-My name is __Howard Nguyen-Huu__ and I'm a third year __Biomedical Engineering Student__ at the University of Waterloo.
-My interests include Machine Learning :chart_with_downwards_trend:, Robotics :robot:, Neuroscience :brain:, and Computer Science :computer:.
+My name is __Howard Nguyen-Huu__ and I'm a third year __Engineering Student__ at the University of Waterloo.
+My interests include Machine Learning :chart_with_downwards_trend:, Robotics :robot:, Neuroscience :brain:, and Software Engineering/Computer Science :computer:.
 
 This site was built with my own custom fork and template of [MkDocs](https://github.com/mkdocs/mkdocs), a python SSG for ```.markdown``` documentation
 
