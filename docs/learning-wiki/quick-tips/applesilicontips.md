@@ -1,3 +1,6 @@
+---
+date: December 17, 2021
+---
 # Python and Apple Silicon
 ## Download, install, & setup [conda miniforge](https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh)
 
