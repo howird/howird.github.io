@@ -29,6 +29,8 @@ This site was built with my own custom fork and template of [MkDocs](https://git
 ### Publications
 Kaji, F., __Nguyen-Huu, H.__, Budhwani, A., Narayanan, J. A., Zimny, M., & Toyserkani, E. (2022). [A __deep-learning__-based in-situ surface __anomaly detection__ methodology for laser directed energy deposition via powder feeding](https://www.sciencedirect.com/science/article/abs/pii/S1526612522004297). Journal of Manufacturing Processes, 81, 624–637. doi:[10.1016/j.jmapro.2022.06.046](https://doi.org/10.1016/j.jmapro.2022.06.046)
 
+Kaji, F., __Nguyen-Huu, H.__, Narayanan, J. A., Zimny, M., & Toyserkani, E. (2022). [Intermittent Adaptive Trajectory Planning for Geometric Defect Correction in Robotic Laser Directed Energy Deposition based Additive Manufacturing](). Under review, submitted to the Journal of Manufacturing Processes.
+
 
 ### Education
 | Sep 2019 - Present  | __B.A.Sc in Biomedical Engineering__ University of Waterloo|
