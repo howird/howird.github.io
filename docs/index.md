@@ -2,12 +2,18 @@
 My name is __Howard Nguyen-Huu__ and I'm a fourth year __Engineering Student__ at the University of Waterloo.
 My interests include Machine Learning :chart_with_downwards_trend:, Robotics :robot:, Neuroscience :brain:, and Software Engineering/Computer Science :computer:.
 
+# :construction: UNDER CONSTRUCTION :construction:
+
+- migrating from [mkdocs](https://github.com/howird/mkdocs) to [hugo](https://github.com/gohugoio/hugo) for static site generation
+- decoupling `.md` posts to different repo, integrating with my obsidian vault :smiling_face:
+
 # Curriculum Vitae
 ### Research Experience
 | Jun 2023 - Present  | __Undergraduate Research Assistant__ [UWaterloo VIP Lab](https://uwaterloo.ca/vision-image-processing-lab/) |
 |-                    |-                                                                                                            |
 |                     | Project 1: 3D Avatar Reconstruction from images/videos.                                                     |
 |                     | Project 2: Robotic Grasp Generation for bin-picking.                                                        |
+|                     | Project 3: Soft-body simulated data generation.                                                             |
 | May 2022 - Dec 2022 | __Robotics Software Research Assistant__ [UWaterloo MSAM Lab](https://msam.uwaterloo.ca/)                   |
 |                     | Joint with Promation Engineering. [See Professional Experience](#professional-experience).                  |
 | Apr 2022 - Dec 2022 | __Perception Research Engineer__         Watonomous                                                         |
